@@ -1,0 +1,21 @@
+{
+    "cities": [
+      {
+        "name": "City1",
+        "properties": [
+          { "id": 1, "name": "Hotel A", "description": "Description of Hotel A" },
+          { "id": 2, "name": "Hotel B", "description": "Description of Hotel B" },
+          { "id": 3, "name": "Hotel C", "description": "Description of Hotel C" }
+        ]
+      },
+      {
+        "name": "City2",
+        "properties": [
+          { "id": 4, "name": "Hotel D", "description": "Description of Hotel D" },
+          { "id": 5, "name": "Hotel E", "description": "Description of Hotel E" },
+          { "id": 6, "name": "Hotel F", "description": "Description of Hotel F" }
+        ]
+      }
+    ]
+  }
+  

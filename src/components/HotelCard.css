@@ -1,0 +1,11 @@
+.hotel-card{
+    display: flex;
+    margin-top: 5px;
+    gap: 10px;
+}
+
+.hotel-card-whole{
+    border: 2px solid red;
+    margin-top: 8px;
+    margin-left: 3px;
+}
